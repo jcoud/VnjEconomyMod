@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vnjeconomymod",
+  "name": "VnjEconomyMod",
+  "description": "anime",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jcoud"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
