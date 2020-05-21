@@ -1,0 +1,19 @@
+gui.hud.text.head.name=T
+gui.hud.text.typeW.name=W
+gui.hud.text.price.name=$
+gui.hud.text.typeH.name=H
+gui.hud.text.owner.name=A
+
+gui.inventory.trader.name=Trading
+gui.inventory.buyer.name=Buying
+gui.inventory.seller.name=Selling
+
+tile.vnjeconomymod.market.trader.name=Trader
+tile.vnjeconomymod.market.buyer.name=Buyer
+tile.vnjeconomymod.market.seller.name=Seller
+
+config.hud_options_category.name=Hud options
+config.hud_options_category.hud_enum_pos.name=Hud Pre-configured position index
+config.hud_options_category.useCustomPos.name=Switch to custom position
+config.hud_options_category.posX.name=Hud optional pos X
+config.hud_options_category.posY.name=Hud optional pos Y

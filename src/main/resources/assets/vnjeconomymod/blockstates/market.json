@@ -1,0 +1,13 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all"
+  },
+  "variants": {
+    "type": {
+      "buyer": { "textures": { "all": "vnjeconomymod:blocks/marketbuyer"} },
+      "seller": { "textures": { "all": "vnjeconomymod:blocks/marketseller"} },
+      "trader": { "textures": { "all": "vnjeconomymod:blocks/markettrader"} }
+    }
+  }
+}

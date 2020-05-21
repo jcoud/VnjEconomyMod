@@ -10,7 +10,6 @@ buildscript {
         classpath "net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT"
     }
 }
-
 apply plugin: "net.minecraftforge.gradle.forge"
 
 version = modVersion
@@ -32,9 +31,6 @@ minecraft {
 
 repositories {
     mavenCentral()
-}
-
-dependencies {
 }
 
 processResources {

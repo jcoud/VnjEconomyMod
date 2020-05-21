@@ -1,0 +1,19 @@
+gui.hud.text.head.name=Т
+gui.hud.text.typeW.name=Х
+gui.hud.text.price.name=$
+gui.hud.text.typeH.name=И
+gui.hud.text.owner.name=А
+
+gui.inventory.trader.name=Trading
+gui.inventory.buyer.name=Buying
+gui.inventory.seller.name=Selling
+
+tile.vnjeconomymod.market.trader.name=Обменник
+tile.vnjeconomymod.market.buyer.name=Скупка
+tile.vnjeconomymod.market.seller.name=Продажа
+
+config.hud_options_category.name=Опции отображения информации
+config.hud_options_category.hud_enum_pos.name=Номер позиции панели пред-установленых координат
+config.hud_options_category.useCustomPos.name=Переключение на использование своих координат
+config.hud_options_category.posX.name=Координата панели X
+config.hud_options_category.posY.name=Координата панели Y
